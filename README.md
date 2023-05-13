@@ -1,6 +1,8 @@
 # Student_Crud_Operation_in_Java
 How to run it?
+
 First compile Java files.
+
 commands.
 1. javac DBConnection.java
 2. javac Student.java
