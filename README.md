@@ -1,4 +1,4 @@
-# Student_Crud_Operation_in_Java
+# Student_Crud_Operation_in_Java_with_Mysql
 How to run it?
 
 First compile Java files.
