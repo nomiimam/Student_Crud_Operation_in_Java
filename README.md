@@ -12,4 +12,4 @@ commands.
 
 new run Main Class.
 
-command: java -cp mysql-connector-java-8.0.20.jar Main
+command: java -cp .;mysql-connector-java-8.0.20.jar Main
